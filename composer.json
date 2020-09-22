@@ -1,0 +1,23 @@
+{
+  "name": "bogosoft/http-mvc-smarty",
+  "description": "Smarty view implementations.",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Bogosoft\\Http\\Mvc\\Smarty\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Bogosoft\\Http\\Mvc\\Smarty\\Tests\\": "tests/"
+    }
+  },
+  "require": {
+    "php": ">=7.4",
+    "bogosoft/http-mvc": "^3.1",
+    "smarty/smarty": "^3.1"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9.3"
+  }
+}
