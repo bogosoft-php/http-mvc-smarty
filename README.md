@@ -1,3 +1,3 @@
 # http-mvc-smarty
 
-Smarty-specific view implementations that completement the `Bogosoft\Http\Mvc` library.
+Smarty-specific view implementations that complement the `Bogosoft\Http\Mvc` library.
